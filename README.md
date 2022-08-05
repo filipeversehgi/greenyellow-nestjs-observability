@@ -2,7 +2,8 @@
 
 [OpenTelemetry](https://opentelemetry.io/) module for [Nest](https://github.com/nestjs/nest).
 
-This is a improovement on top of a fork of [NestJs Otel](https://raw.githubusercontent.com/pragmaticivan/nestjs-otel)
+This repository is based on a fork of [NestJs Otel](https://raw.githubusercontent.com/pragmaticivan/nestjs-otel), more tailored
+for the use we make inside our organization.
 
 ## What's Included
 
