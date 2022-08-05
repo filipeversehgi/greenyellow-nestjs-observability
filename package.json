@@ -1,6 +1,6 @@
 {
   "name": "@gy/nestjs-observability",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "NestJs Observability Lib",
   "author": "Filipe Versehgi <filipeversehgi@gmail.com>",
   "license": "MIT",
